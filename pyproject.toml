@@ -1,0 +1,8 @@
+[project]
+name = "python-itmo-2025"
+version = "1.0.0"
+description = "Домашние задания по Python ITMO 2025"
+
+dependencies = []
+
+
