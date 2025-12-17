@@ -1,0 +1,4 @@
+[project]
+name = "latex-gen-nikitakeba"
+version = "1.0.0"
+authors = [{name = "Nikita Keba"}]
